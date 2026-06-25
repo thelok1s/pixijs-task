@@ -23,12 +23,12 @@ export const APP_CONFIG: AppConfig = {
     frameDurationMs: 90,
     moveSpeed: 800,
     frames: [
-      `${BASE_URL}assets/nyan/nyan1.svg`,
-      `${BASE_URL}assets/nyan/nyan2.svg`,
-      `${BASE_URL}assets/nyan/nyan3.svg`,
-      `${BASE_URL}assets/nyan/nyan4.svg`,
-      `${BASE_URL}assets/nyan/nyan5.svg`,
-      `${BASE_URL}assets/nyan/nyan6.svg`,
+      `${BASE_URL}assets/nyan1.svg`,
+      `${BASE_URL}assets/nyan2.svg`,
+      `${BASE_URL}assets/nyan3.svg`,
+      `${BASE_URL}assets/nyan4.svg`,
+      `${BASE_URL}assets/nyan5.svg`,
+      `${BASE_URL}assets/nyan6.svg`,
     ],
   },
 };
